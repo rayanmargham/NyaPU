@@ -1,5 +1,5 @@
 # DISCLAIMER
-This is a fork of BatPU. As those scripts for the assembler as well as the schem generator for things like instruction memory are **SUPER** useful. This is for a 8-bit redstone cpu I am working on with 10-bit instruction memory addressing. I WILL get back to NyauxKC just wanna do a side project to distract myself from the trauma of what happened in relation to me and the entire osdev community at large
+This is a fork of BatPU. As those scripts for the assembler as well as the schem generator for things like instruction memory are **SUPER** useful. This is for a 8-bit redstone cpu I am working on with 10-bit instruction memory addressing. I WILL get back to NyauxKC just wanna do a side project to distract myself from the trauma of what happened in relation to me and the entire osdev community at large, to which I will address with a whole blog post on the nyaux website I'm working on eventually. meow :3
 
 # BEFORE TRYING TO MAKE AND/OR RUN A PROGRAM, READ THIS WHOLE PAGE!
 DISCLAIMER: Basic assembly knowledge is assumed.
